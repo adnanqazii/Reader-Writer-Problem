@@ -1,0 +1,1 @@
+'rm' file is for removing semaphore in case of unexpected termination resulting in poor leftover semaphore value.
